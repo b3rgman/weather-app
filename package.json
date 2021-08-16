@@ -1,0 +1,30 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather app with api calls in node and js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3rgman/weather-app.git"
+  },
+  "keywords": [
+    "weather",
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "Josh Bergman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b3rgman/weather-app/issues"
+  },
+  "homepage": "https://github.com/b3rgman/weather-app#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "request": "^2.88.2",
+    "yargs": "^17.1.1"
+  }
+}

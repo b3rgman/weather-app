@@ -1,2 +1,2 @@
 # weather-app
-Weather app built in nidejs
+Weather app built in nodejs
